@@ -1,4 +1,4 @@
-package com.github;
+package com.github.jfsql.util;
 
 import com.fasterxml.jackson.databind.MappingIterator;
 import com.fasterxml.jackson.databind.ObjectMapper;

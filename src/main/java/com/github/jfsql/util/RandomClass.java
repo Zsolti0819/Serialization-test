@@ -1,4 +1,4 @@
-package com.github;
+package com.github.jfsql.util;
 
 import java.math.BigDecimal;
 import lombok.Data;
